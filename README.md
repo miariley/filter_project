@@ -26,11 +26,11 @@ sketchFilter(image)
 
 # Contributions 
 Mia wrote: 
-blur_filter.py 
-cartoon_filter.py 
+blur_filter.py, 
+cartoon_filter.py, 
 style transfer
 
 Giulia wrote: 
-blur_filter.py
-sketch_filter.py
+blur_filter.py,
+sketch_filter.py,
 style Transfer 
